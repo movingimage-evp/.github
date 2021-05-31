@@ -1,0 +1,13 @@
+{
+  "name": "Movingimage Java Microservices Workflow",
+  "description": "Movingimage java microservices CI workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "pom.xml",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
