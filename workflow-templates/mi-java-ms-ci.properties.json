@@ -1,7 +1,7 @@
 {
   "name": "Movingimage Java Microservices Workflow",
   "description": "Movingimage java microservices CI workflow template.",
-  "iconName": "example-icon",
+  "iconName": "java-logo",
   "categories": [
     "Java"
   ],
